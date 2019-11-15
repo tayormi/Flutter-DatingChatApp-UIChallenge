@@ -2,4 +2,4 @@
  A Dating Chat App UI implementation in flutter.
 
 
-![alt text](https://github.com/tayormi/Flutter-DatingChatApp-UIChallenge/blob/media/chat-app.gif)
+![alt text](https://raw.githubusercontent.com/tayormi/Flutter-DatingChatApp-UIChallenge/master/media/chat-app.gif)
